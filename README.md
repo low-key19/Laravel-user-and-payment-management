@@ -45,6 +45,12 @@ This project is a **CRUD application** built for **Mr. Market NEPSE**, which hel
     composer install
     ```
 
+    Install nodejs dependencies
+
+    ```bash
+    npm install
+    ```
+
 3. **Set up environment**:
 
     Copy `.env.example` to `.env`:
@@ -67,6 +73,17 @@ This project is a **CRUD application** built for **Mr. Market NEPSE**, which hel
     ```bash
     php artisan migrate
     ```
+
+6. **Compile assets**:
+
+    Compile the frontend assets using Laravel Mix:
+
+    ```bash
+    npm run dev
+    ```
+
+     This will compile the frontend assests at `http://localhost`.
+
 
 6. **Start the server**:
 
