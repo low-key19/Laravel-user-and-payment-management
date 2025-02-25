@@ -33,8 +33,8 @@ This project is a **CRUD application** built for **Mr. Market NEPSE**, which hel
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/mr-market-nepse.git
-    cd mr-market-nepse
+    git clone https://github.com/low-key19/Laravel-user-and-payment-management.git
+    cd Laravel-user-and-payment-management
     ```
 
 2. **Install dependencies**:
